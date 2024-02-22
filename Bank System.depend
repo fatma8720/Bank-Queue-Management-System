@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1708627750 source:g:\w drive\iti os\ds\bank system\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<ctime>
+	<queue>
+	<deque>
+	<vector>
+	<algorithm>
+	"Customer.h"
+	"Teller.h"
+	<Windows.h>
+
+1708621097 g:\w drive\iti os\ds\bank system\include\customer.h
+
+1708620019 g:\w drive\iti os\ds\bank system\include\teller.h
+
