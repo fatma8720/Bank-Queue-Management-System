@@ -1,4 +1,6 @@
+
 Bank Queue Management System
+
 This project implements a simulation of a bank queue management system in C++. It simulates the operation of a bank with multiple tellers serving customers who arrive at different times and have varying service times. The system tracks customer data, such as arrival time, service time, waiting time, and the teller serving them.
 
 Features
